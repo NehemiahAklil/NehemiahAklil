@@ -5,12 +5,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nehemiah Aklil aka βoγ Woηdεr</h1>
 <h3 align="center">Christian | Soon To Be Software Engineer | Neo-Soul Guitar Enthusiast</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
-<a href="https://www.facebook.com/akash.chowrasia.908/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@chowrasia_akash1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
-<a href="https://leetcode.com/Akash_Chowrasia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akash_chowrasia" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/akash_chowrasia/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="akash_chowrasia" height="30" width="40" /></a>
- <a href = "mailto: chowrasia.akash08@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nehemiahaklil/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nehemiahaklil" height="30" width="40" /></a>
+<a href="https://t.me/ABoyWhoWonders/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="akash chowrasia" height="30" width="40" /></a>
+<a href = "mailto: nehemiahaklil@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
 
@@ -66,10 +63,8 @@
 <hr>
  <h2>⚙️ &nbsp;GitHub Analytics</h2>
 <p align="center">
-<a href="https://github.com/NehemiahAklil">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NehemiahAklil&show_icons=true&count_private=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NehemiahAklil&layout=compact&count_private=true&langs_count=8&theme=algolia"/>
-</a>
+<a href="https://github.com/NehemiahAklil"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=NehemiahAklil&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehemiahAklil&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
 </p>
 
 Here are some [🦜Parrots](https://cultofthepartyparrot.com):
@@ -103,6 +98,6 @@ Here are some [🦜Parrots](https://cultofthepartyparrot.com):
 
 <hr>
 
-Credits: [Akash chowrasia](https://github.com/NehemiahAklil)
+Credits: [Akash chowrasia](https://github.com/Akash-chowrasia)
 
-> > > > > > > master
+![](https://komarev.com/ghpvc/?username=NehemiahAklil)
