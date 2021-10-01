@@ -63,8 +63,10 @@
 <hr>
  <h2>⚙️ &nbsp;GitHub Analytics</h2>
 <p align="center">
-<a href="https://github.com/NehemiahAklil"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=NehemiahAklil&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehemiahAklil&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
-
+<a href="https://github.com/NehemiahAklil">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NehemiahAklil&show_icons=true&count_private=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NehemiahAklil&layout=compact&count_private=true&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 Here are some [🦜Parrots](https://cultofthepartyparrot.com):
