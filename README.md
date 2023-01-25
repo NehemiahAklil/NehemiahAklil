@@ -1,4 +1,3 @@
-<hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nehemiah Aklil aka βoγ Woηdεr</h1>
 <h3 align="center">Christian | Software Engineer | Neo-Soul Guitar Enthusiast</h3>
 <p align="center">
